@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+# Keep environment variables out of version control
+.env
+javascript/**/migrations/
+typescript/**/migrations/
+misc/**/migrations/
+databases/**/migrations/
